@@ -67,4 +67,25 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 *****
 
-## Results
+# Results
+After training and evaluating both the Linear Regression and Decision Tree models on the mobile phone price prediction dataset, we obtained the following performance metrics:
+
+Linear Regression:
+
+- **RMSE (Root Mean Squared Error): 15713.71**
+
+- **R-Squared: 0.7345**
+
+Decision Tree Regression:
+
+- **RMSE (Root Mean Squared Error): 17022.37**
+- **R-Squared: 0.6884**
+
+Based on these metrics, we can compare the performance of both models. The RMSE for Linear Regression is 15713.71, while for the Decision Tree model, it is 17022.37. Since a lower RMSE indicates better performance, Linear Regression outperforms the Decision Tree Regression for this dataset.
+
+The R-Squared value, which indicates the proportion of the variance in the dependent variable that is predictable from the independent variables, is also higher for the Linear Regression model (0.7345) compared to the Decision Tree model (0.6884). This further confirms that the Linear Regression model provides a better fit for the data.
+
+*****
+# Conclusion
+Linear Regression has a lower RMSE and a higher R-Squared value compared to Decision Tree Regression, making it the better model for predicting mobile phone prices in this dataset.
+
