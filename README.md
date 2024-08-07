@@ -9,7 +9,6 @@ This project aims to predict the price of mobile phones using regression and dec
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [License](#license)
 *****
 
 ## Introduction
@@ -67,7 +66,7 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 *****
 
-# Results
+## Results
 After training and evaluating both the Linear Regression and Decision Tree models on the mobile phone price prediction dataset, we obtained the following performance metrics:
 
 Linear Regression:
@@ -86,6 +85,20 @@ Based on these metrics, we can compare the performance of both models. The RMSE 
 The R-Squared value, which indicates the proportion of the variance in the dependent variable that is predictable from the independent variables, is also higher for the Linear Regression model (0.7345) compared to the Decision Tree model (0.6884). This further confirms that the Linear Regression model provides a better fit for the data.
 
 *****
-# Conclusion
+## Conclusion
 Linear Regression has a lower RMSE and a higher R-Squared value compared to Decision Tree Regression, making it the better model for predicting mobile phone prices in this dataset.
+
+
+**Linear Regression**
+
+![image](https://github.com/user-attachments/assets/d9b99034-0893-4893-b6dc-f7de937388cb)
+
+
+**Decision Tree Regression**
+
+![image](https://github.com/user-attachments/assets/f667be58-0cef-4441-a923-12c6f908f72a)
+
+
+
+
 
