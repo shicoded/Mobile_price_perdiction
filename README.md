@@ -90,5 +90,13 @@ The R-Squared value, which indicates the proportion of the variance in the depen
 Linear Regression has a lower RMSE and a higher R-Squared value compared to Decision Tree Regression, making it the better model for predicting mobile phone prices in this dataset.
 
 
-![Decision Tree Visualization](images/decisiontree_figure.png)
+
+
+
+
+
+
+
+(![image](https://github.com/user-attachments/assets/f667be58-0cef-4441-a923-12c6f908f72a)
+)
 
