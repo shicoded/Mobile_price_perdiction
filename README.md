@@ -9,7 +9,6 @@ This project aims to predict the price of mobile phones using regression and dec
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [License](#license)
 *****
 
 ## Introduction
@@ -99,7 +98,7 @@ Linear Regression has a lower RMSE and a higher R-Squared value compared to Deci
 
 ![image](https://github.com/user-attachments/assets/f667be58-0cef-4441-a923-12c6f908f72a)
 
-*****************
-# License
+
+
 
 
